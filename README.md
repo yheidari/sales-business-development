@@ -1,4 +1,4 @@
-# Yashar Heidari â€” Sales & Business Development Specialist Portfolio
+# Yashar Heidari — Sales & Business Development Specialist Portfolio
 
 Pipeline generation, outbound, and MEDDIC-led qualification.
 
@@ -13,7 +13,7 @@ Sales & Business Development Specialist with 5 years of experience in B2B SaaS p
 
 ## Contact
 
-- Location: Messina, Italy آ· Open to Remote
+- Location: Messina, Italy · Open to Remote
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
 - GitHub: https://github.com/yheidari/sales-business-development
